@@ -1,3 +1,4 @@
+Adding an emoji 👨‍🦲
 <header>
 
 # Hello GitHub Actions
